@@ -1,0 +1,28 @@
+.PostCommentpageRight{ 
+    flex: 1;
+}
+
+.PostCommentpageCenter{
+    flex: 2;
+}
+.PostCommentpageLeft{
+    flex: 2;
+}
+
+.upicon{
+    width: 26px;
+    height: 26px;
+    
+}
+
+.downicon{
+    width: 26px;
+    height: 26px;
+    margin-left: 10px;
+}
+
+.imageicon{
+    width: 23px;
+    height: 23px;
+    margin-left: 10px;
+}

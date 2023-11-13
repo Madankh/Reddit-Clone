@@ -1,0 +1,46 @@
+.PostTopItemsContainer{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.moreIcons{
+    width: 20px;
+    height: 20px;
+    margin-top: 23px;
+    margin-left: 20px;
+}
+
+.Cardicons{
+    width: 23px;
+    height: 23px; 
+    margin-top: 20px;   
+}
+
+.PostContainer{
+    display: flex;
+    margin-top: 10px;
+    padding: 4px;
+}
+
+.postContainerLeftbar{
+    flex: 0.3;
+}
+.postContainerRightbar{
+    flex: 3;
+}
+.PostContainer:hover{
+    outline: 0.3px solid rgb(154, 154, 154);
+    padding: 4px;
+}
+
+.profile{
+    width: 26px;
+    height: 26px;
+}
+
+.PostImage{
+    width: 90%;
+    height: 40vh;
+    object-fit: contain;
+}
